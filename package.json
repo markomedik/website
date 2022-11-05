@@ -1,0 +1,19 @@
+{
+  "name": "mm_website",
+  "version": "0.0.1",
+  "description": "A playground website, mostly for learning HTTP, HTML, CSS basics as well as Git branching protocols",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/markomedik/website.git"
+  },
+  "author": "Marko Medik <markomedik@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markomedik/website/issues"
+  },
+  "homepage": "https://github.com/markomedik/website#readme"
+}
