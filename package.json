@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/markomedik/website/issues"
   },
-  "homepage": "https://github.com/markomedik/website#readme"
+  "homepage": "https://github.com/markomedik/website#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
 }
